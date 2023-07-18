@@ -36,7 +36,7 @@
 /* Begin PBXFileReference section */
 		BDCA17EB2A60A44E008E74D2 /* about me app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "about me app.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BDCA17EE2A60A44E008E74D2 /* about_me_appApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = about_me_appApp.swift; sourceTree = "<group>"; };
-		BDCA17F02A60A44E008E74D2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		BDCA17F02A60A44E008E74D2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; wrapsLines = 0; };
 		BDCA17F22A60A450008E74D2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BDCA17F52A60A450008E74D2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		BDCA17FB2A60A451008E74D2 /* about me appTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "about me appTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
